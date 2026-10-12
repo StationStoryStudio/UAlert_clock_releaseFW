@@ -1,0 +1,13 @@
+{
+  "beta": {
+    "version": "1.0.0",
+    "file": "ualert-1.0.0.uafw",
+    "size": 2219880,
+    "sha256": "298e5eb11da2b54ca8e7b51d3e1ccf62095f3af4eec1c54731f16f517c1be3b6",
+    "date": "2026-10-12",
+    "notes": "Перша версія з оновленням через інтернет",
+    "devices": [
+      "b69f92bb04bfcf4d"
+    ]
+  }
+}
